@@ -1,3 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://coffiko.github.io/" target="_blank">sh1val</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+Hello i'm Sh1val
+
+This is my first code made in order to open programs through buttons in the script
